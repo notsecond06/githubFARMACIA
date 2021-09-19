@@ -1,0 +1,14 @@
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\LayerEntity.dll
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\segun\source\repos\BLL\bin\Debug\netstandard2.0\LayerEntity.pdb
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.vbprojAssemblyReference.cache
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.vb
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.vbproj.CopyComplete
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\segun\source\repos\BLL\obj\Debug\netstandard2.0\BLL.pdb

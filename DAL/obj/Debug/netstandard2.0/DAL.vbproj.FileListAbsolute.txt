@@ -1,0 +1,12 @@
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\LayerEntity.dll
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\segun\source\repos\DAL\bin\Debug\netstandard2.0\LayerEntity.pdb
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.vbprojAssemblyReference.cache
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.vb
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.vbproj.CopyComplete
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\segun\source\repos\DAL\obj\Debug\netstandard2.0\DAL.pdb

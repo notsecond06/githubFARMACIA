@@ -1,0 +1,8 @@
+C:\Users\segun\source\repos\LayerEntity\bin\Debug\netstandard2.0\LayerEntity.deps.json
+C:\Users\segun\source\repos\LayerEntity\bin\Debug\netstandard2.0\LayerEntity.dll
+C:\Users\segun\source\repos\LayerEntity\bin\Debug\netstandard2.0\LayerEntity.pdb
+C:\Users\segun\source\repos\LayerEntity\obj\Debug\netstandard2.0\LayerEntity.vbprojAssemblyReference.cache
+C:\Users\segun\source\repos\LayerEntity\obj\Debug\netstandard2.0\LayerEntity.AssemblyInfoInputs.cache
+C:\Users\segun\source\repos\LayerEntity\obj\Debug\netstandard2.0\LayerEntity.AssemblyInfo.vb
+C:\Users\segun\source\repos\LayerEntity\obj\Debug\netstandard2.0\LayerEntity.dll
+C:\Users\segun\source\repos\LayerEntity\obj\Debug\netstandard2.0\LayerEntity.pdb
